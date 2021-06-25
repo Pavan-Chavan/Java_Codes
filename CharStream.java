@@ -1,8 +1,4 @@
-import java.io.BufferedReader;
 
-//import jdk.internal.org.jline.utils.InputStreamReader;
-
-import java.io.*;
 
 //Title :- Exaple of binary stream
 //Coder Name:- Pavan Chavan
@@ -24,6 +20,9 @@ import java.io.*;
     and opens the file to write Character Stream.
     syntax: FileWriter fr = new FileWriter("fPath&fName");
 */
+
+import java.io.BufferedReader;
+import java.io.*;
 
 public class CharStream {
     public static void main(String[] args) {
