@@ -25,5 +25,5 @@ public class PrintingTableFromOracle {
 	catch(SQLException e) {
 			e.printStackTrace();
 		}
-	}
+	}								
 }
